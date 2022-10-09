@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754120346601",
+    "project_id": "student-d3c1a",
+    "storage_bucket": "student-d3c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754120346601:android:cf379c003e9e9c11ed5978",
+        "android_client_info": {
+          "package_name": "com.example.computer_and_control_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754120346601-6boghv68h568vt3necicco6ipui46cka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYtn8tNun3hwyL3ZZWBR-WuPr6ioV1HvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754120346601-6boghv68h568vt3necicco6ipui46cka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
